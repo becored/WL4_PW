@@ -1,6 +1,6 @@
 # Wario Land 4: Parallel World (Rom Hack)
 This is a rom hack of Wario Land 4 that I've been working on from January 2020.  
-![pic01](images/pic01.png) ![pic02](images/pic02.png) ![pic03](images/pic03.png) ![pic04](images/pic04.png)  
+![pic01](images/pic01.png) ![pic02](images/pic02.png) ![pic04](images/pic04.png)  
 Teaser video: https://www.youtube.com/watch?v=0IdnKYS-1y4  
 You can find info about WL4 hacking at [Wario Land 4 Hack Vault](https://wario-land.github.io/HackVault/info.html).
 
