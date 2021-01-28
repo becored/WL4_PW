@@ -5,7 +5,7 @@ Teaser video: https://www.youtube.com/watch?v=0IdnKYS-1y4
 You can find info about WL4 hacking at [Wario Land 4 Hack Vault](https://wario-land.github.io/HackVault/info.html).
 
 ## How to play
-Patch "Wario_Land_4_Parallel_World_ver0.71(US).bps" to a vanilla Wario Land 4(US) rom  
+Patch "Wario_Land_4_Parallel_World_ver0.71(US).bps" to a vanilla Wario Land 4(US) rom.  
   
 ## Progress
 Currently Entry Passage, Emerald Passage, Ruby Passage and Sapphire Passage are fully edited.  
