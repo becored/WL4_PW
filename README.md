@@ -4,7 +4,7 @@ This is a completed rom hack of Wario Land 4 that I've worked on January 2020 - 
 Teaser video: https://www.youtube.com/watch?v=mHB36wUjz4Q  
 You can find info about WL4 hacking at [Wario Land 4 Hack Vault](https://wario-land.github.io/HackVault/info.html).
 
-## Download
+## Patch Download
 https://github.com/becored/WL4_PW/releases/tag/v1.0  
 Download "Wario_Land_4_Parallel_World_ver1.0.zip" from Assets.
 
