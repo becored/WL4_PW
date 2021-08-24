@@ -1,4 +1,4 @@
-# Wario Land 4: Parallel World (Completed Rom Hack)
+# Wario Land 4: Parallel World
 This is a completed rom hack of Wario Land 4 that I've worked on January 2020 - August 2021.  
 ![pic01](images/pic01.png) ![pic02](images/pic02.png) ![pic04](images/pic04.png)  
 Teaser video: https://www.youtube.com/watch?v=mHB36wUjz4Q  
