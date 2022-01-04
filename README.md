@@ -5,7 +5,7 @@ Teaser video: https://www.youtube.com/watch?v=mHB36wUjz4Q
 You can find info about WL4 hacking at [Wario Land 4 Hack Vault](https://wario-land.github.io/HackVault/info.html).
 
 ## Patch Download
-https://github.com/becored/WL4_PW/releases/tag/v1.0  
+https://github.com/becored/WL4_PW/releases/tag/v1.3  
 Download "Wario_Land_4_Parallel_World_ver1.03.zip" from Assets.
 
 ## Credits
